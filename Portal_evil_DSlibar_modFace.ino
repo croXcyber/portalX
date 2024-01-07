@@ -7,8 +7,6 @@
 // Based on https://community.dfrobot.com/makelog-313463.html
 // Modified font and text placement for StickC, further improvements added
 // Code BY: https://github.com/n0xa/
-// Moded BY: https://github.com/Kuush01
-// Moded BY: https://github.com/raphntc
 // Moded BY: croXcyber
  
 // User configuration
